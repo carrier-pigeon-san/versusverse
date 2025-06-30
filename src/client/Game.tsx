@@ -1,5 +1,4 @@
 import React, { useState, useEffect, useCallback } from 'react';
-import { Keyboard } from './Keyboard';
 import { LetterState, CheckResponse } from '../shared/types/game';
 import packageJson from '../../package.json';
 
@@ -317,7 +316,6 @@ export const Game: React.FC = () => {
           </div>
         ))}
       </div>
-      <Keyboard onKey={onKey} letterStates={letterStates} />
     </div>
   );
 };
