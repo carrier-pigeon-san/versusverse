@@ -1,13 +1,13 @@
-# 🥊 VersusVerse 🎭
+# 🥊 Versusverse 🎭
 **_The silliest showdown on Reddit._**
 
-Welcome to **VersusVerse** — a chaotic, AI-fueled twist on Rock-Paper-Scissors built for Reddit. Compete with strangers using *anything imaginable*, from flaming marshmallows to existential dread. Created for the [World's Largest Hackathon](https://worldslargesthackathon.devpost.com/), under the **Silly Shit** challenge.
+Welcome to **Versusverse** — a chaotic, AI-fueled twist on Rock-Paper-Scissors built for Reddit. Compete with strangers using *anything imaginable*, from flaming marshmallows to existential dread. Created for the [World's Largest Hackathon](https://worldslargesthackathon.devpost.com/), under the **Silly Shit** challenge.
 
 ---
 
-## 🎮 What is VersusVerse?
+## 🎮 What is Versusverse?
 
-VersusVerse is a Reddit-native game where users start or join themed face-offs. Players pick from AI-generated choices and let the AI decide the victor. Every match is absurd, unpredictable, and hilarious.
+Versusverse is a Reddit-native game where users start or join themed face-offs. Players pick from AI-generated choices and let the AI decide the victor. Every match is absurd, unpredictable, and hilarious.
 
 ---
 
@@ -52,4 +52,4 @@ VersusVerse is a Reddit-native game where users start or join themed face-offs. 
 
 Open in Bolt with the link below:
 
-<a href="https://bolt.new/github.com/carrier-pigeon-san/versusverse"><img src="docs-img/open-in-bolt-2x.png" height="36px" width="199px" alt="Open in Bolt"></a>
+<a href="https://bolt.new/github.com/carrier-pigeon-san/Versusverse"><img src="docs-img/open-in-bolt-2x.png" height="36px" width="199px" alt="Open in Bolt"></a>
